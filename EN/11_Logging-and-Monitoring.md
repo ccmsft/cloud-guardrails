@@ -27,7 +27,7 @@ Enable logging for the cloud environment and for cloud-based workloads.
 
 ## References
 
-1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.3.1
-2. CSE Top 10 #1, 5, 8
-3. Refer to [GC Event Logging Guidance](https://www.gcpedia.gc.ca/gcwiki/images/e/e3/GC_Event_Logging_Strategy.pdf)
+1. [SPIN 2017-01](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.3.1
+2. [CSE Top 10](https://www.cyber.gc.ca/en/guidance/cse-top-10-it-security-actions) #1, 5, 8
+3. Refer to [GC Event Logging Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/event-logging-guidance.html)
 4. Related security controls: AU‑2, AU‑3, AU‑6, AU‑8, AU‑9, AU‑9(4), AU‑12, SI-4

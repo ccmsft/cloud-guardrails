@@ -19,6 +19,6 @@ Restreindre les logiciels dans le marché des fournisseurs de services d’infor
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.2.5
+1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.2.5
 2. Consulter GCconnex pour obtenir la liste actuelle des produits du marché approuvés
 3. Mesures de sécurité connexes : CM-2, CM-3, CM-4, CM-5, CM-8, SA-22

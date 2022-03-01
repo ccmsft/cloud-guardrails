@@ -18,7 +18,7 @@ Segmenter et séparer les renseignements en fonction de leur sensibilité.
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.2.4
-2. Les 10 meilleures mesures de sécurité des TI du CST, numéro 5
+1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.2.4
+2. [Les 10 meilleures mesures de sécurité des TI du CST](https://www.cyber.gc.ca/fr/orientation/les-10-principales-mesures-de-securite-du-cst), numéro 5
 3. Consulter l’orientation liée aux zones de sécurité de réseau dans [ITSG-22](https://cyber.gc.ca/fr/orientation/exigences-de-base-en-matiere-de-securite-pour-les-zones-de-securite-de-reseau-au-sein) et [ITSG-38](https://cyber.gc.ca/fr/orientation/considerations-de-conception-relatives-au-positionnement-des-services-dans-les-zones)
 4. Mesures de sécurité connexes : AC-4, SC-7, SC-7(5)

@@ -7,7 +7,7 @@ Activer la journalisation pour l’environnement de l’informatique en nuage et
 ## Principales considérations
 
 * [ ] Mettre en œuvre un niveau approprié de journalisation et d’établissement de rapports, y compris une fonction de journal d’audit de sécurité dans tous les systèmes d’information.
-* [ ] Indiquer les événements dans la solution qui doivent être audités conformément à l’Orientation sur la journalisation des événements du GC.
+* [ ] Indiquer les événements dans la solution qui doivent être audités conformément à le [Guide sur la consignation d’événements](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/guide-sur-la-consignation-evenements.html).
 
 Remarque : Vous pourriez devoir configurer votre solution pour envoyer les journaux d’audit à une installation centralisée de journalisation, si disponible, où des mécanismes d’audit seront appliqués.
 
@@ -27,7 +27,7 @@ Remarque : Vous pourriez devoir configurer votre solution pour envoyer les journ
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.3.1
-2. Les 10 meilleures mesures de sécurité des TI du CST, numéro 1, 5 et 8.
-3. Consulter l’Orientation sur la journalisation des événements du GC.
+1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.3.1
+2. [Les 10 meilleures mesures de sécurité des TI du CST](https://www.cyber.gc.ca/fr/orientation/les-10-principales-mesures-de-securite-du-cst), numéro 1, 5 et 8.
+3. Consulter le [Guide sur la consignation d’événements](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/guide-sur-la-consignation-evenements.html).
 4. Mesures de sécurité connexes : AU-2, AU-3, AU-6, AU-8, AU-9, AU-9 (4), AU-12, SI-4.
